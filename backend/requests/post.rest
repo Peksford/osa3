@@ -1,0 +1,7 @@
+POST https://aged-snowflake-9472.fly.dev/api/persons
+Content-Type: application/json
+
+{
+    "name": "Peksi Testaa taas kerran uudestaan jeejee",
+    "number": "123-2241234"
+}
